@@ -413,25 +413,25 @@ How many assignments do I have to turn in?8. Three Assignements, three reflectio
 How many project reports would I have to write?8. Three Assignements, three reflection reports and two examinations.
 How many assignment essays I must write?8. Three Assignements, three reflection reports and two examinations.
 How many homework essays do you want me to write?8. Three Assignements, three reflection reports and two examinations.
-How can I engage with my classmates?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How should I engage with my fellow student?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How may I engage with my classmates?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How would I engage with students?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How do I engage with my peers?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How can I get involved with my fellow pupil?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How should I communicate with my classmates?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How may I participate with other students?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How would I chat with my contemporaries?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How do I connect with other students in the class?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-Will I have to work independently?Yes. You will have to work independently on design,programming and reflections.
-Do I have to study by myself?Yes. You will have to work independently on design,programming and reflections.
-Can I work independently?Yes. You will have to work independently on design,programming and reflections.
-Should I study autonomously?Yes. You will have to work independently on design,programming and reflections.
-Would I have to work alone?Yes. You will have to work independently on design,programming and reflections.
-Do we have to do everything independently?Yes. You will have to work independently on design,programming and reflections.
-Must I learn independently?Yes. You will have to work independently on design,programming and reflections.
-Am I expected to work on my own?Yes. You will have to work independently on design,programming and reflections.
-Do you want me to study by myself?Yes. You will have to work independently on design,programming and reflections.
+How can I engage with my classmates?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How should I engage with my fellow student?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How may I engage with my classmates?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How would I engage with students?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How do I engage with my peers?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How can I get involved with my fellow pupil?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How should I communicate with my classmates?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How may I participate with other students?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How would I chat with my contemporaries?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How do I connect with other students in the class?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+Will I have to work independently?Yes. You will have to work independently on design, programming and reflections.
+Do I have to study by myself?Yes. You will have to work independently on design, programming and reflections.
+Can I work independently?Yes. You will have to work independently on design, programming and reflections.
+Should I study autonomously?Yes. You will have to work independently on design, programming and reflections.
+Would I have to work alone?Yes. You will have to work independently on design, programming and reflections.
+Do we have to do everything independently?Yes. You will have to work independently on design, programming and reflections.
+Must I learn independently?Yes. You will have to work independently on design, programming and reflections.
+Am I expected to work on my own?Yes. You will have to work independently on design, programming and reflections.
+Do you want me to study by myself?Yes. You will have to work independently on design, programming and reflections.
 Will I have to do additional reading for this class?Yes
 Do I have to do additional reading for this course?Yes
 Would I have to do additional reading for this class?Yes
@@ -484,31 +484,31 @@ Do I have to follow to School's code of conduct to be this class?Yes
 Will I have to stick to GeorgiaTech code of conduct to study in this course?Yes
 Am I obligated to adhere to Georgia Tech code of conduct to take this class?Yes
 Must I obey to Georgia Tech code of conduct to take this class?Yes
-Where can I find the reading list?Readings will either be publicly available online or will be provided to you in the T-Square Resources section for this class.
-Where do I find the reading sets?Readings will either be publicly available online or will be provided to you in the T-Square Resources section for this class.
-Where would I find the supplementary reading list?Readings will either be publicly available online or will be provided to you in the T-Square Resources section for this class.
-Where may I get the additional reading list?Readings will either be publicly available online or will be provided to you in the T-Square Resources section for this class.
-Where can I locate the required reading list?Readings will either be publicly available online or will be provided to you in the T-Square Resources section for this class.
-Where can I find the class reading list?Readings will either be publicly available online or will be provided to you in the T-Square Resources section for this class.
-Where do I obtain the course reading sets?Readings will either be publicly available online or will be provided to you in the T-Square Resources section for this class.
-Where can I locate the supplementary reading?Readings will either be publicly available online or will be provided to you in the T-Square Resources section for this class.
-Where would I get the additional reading?Readings will either be publicly available online or will be provided to you in the T-Square Resources section for this class.
-Where can I find the reading list for the course?Readings will either be publicly available online or will be provided to you in the T-Square Resources section for this class.
-How will I know which readings relate to which lectures?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How can I know which readings relate to which lectures?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How would I know which readings associated to which topics?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How do I know which readings relate to which lectures?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How to figure out which readings relate to which material?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How will I know what reading sets connected to which lectures?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How can I know what readings lists associated to what videos?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How would I know which readings are corelated to which lectures?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How do I know which readings relate to which classes?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How to figure out what reading sets connected to what lectures?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How will I know what readings material relate to which videos?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How can I know what readings lists linked to what lectures?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How would I know which readings are associated to which material?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How do I know which readings relate to which lectures?It will be provided in the description of video lecture, project / you can alway as the TA's.
-How to figure out what readings corelated to what material?It will be provided in the description of video lecture, project / you can alway as the TA's.
+Where can I find the reading list?Readings will either be publicly available on-line or will be provided to you in the T-Square Resources section for this class.
+Where do I find the reading sets?Readings will either be publicly available on-line or will be provided to you in the T-Square Resources section for this class.
+Where would I find the supplementary reading list?Readings will either be publicly available on-line or will be provided to you in the T-Square Resources section for this class.
+Where may I get the additional reading list?Readings will either be publicly available on-line or will be provided to you in the T-Square Resources section for this class.
+Where can I locate the required reading list?Readings will either be publicly available on-line or will be provided to you in the T-Square Resources section for this class.
+Where can I find the class reading list?Readings will either be publicly available on-line or will be provided to you in the T-Square Resources section for this class.
+Where do I obtain the course reading sets?Readings will either be publicly available on-line or will be provided to you in the T-Square Resources section for this class.
+Where can I locate the supplementary reading?Readings will either be publicly available on-line or will be provided to you in the T-Square Resources section for this class.
+Where would I get the additional reading?Readings will either be publicly available on-line or will be provided to you in the T-Square Resources section for this class.
+Where can I find the reading list for the course?Readings will either be publicly available on-line or will be provided to you in the T-Square Resources section for this class.
+How will I know which readings relate to which lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How can I know which readings relate to which lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How would I know which readings associated to which topics?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How do I know which readings relate to which lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How to figure out which readings relate to which material?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How will I know what reading sets connected to which lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How can I know what readings lists associated to what videos?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How would I know which readings are corelated to which lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How do I know which readings relate to which classes?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How to figure out what reading sets connected to what lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How will I know what readings material relate to which videos?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How can I know what readings lists linked to what lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How would I know which readings are associated to which material?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How do I know which readings relate to which lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How to figure out what readings corelated to what material?It will be provided in the description of video lecture, project / you can always ask the TA's.
 Are the readings mandatory?It is not mandatory, but is strongly recommended as it will help improve the understanding of the subject.
 Are the readings list obligatory?It is not mandatory, but is strongly recommended as it will help improve the understanding of the subject.
 Are the readings set compulsory?It is not mandatory, but is strongly recommended as it will help improve the understanding of the subject.
@@ -630,24 +630,24 @@ Will grades curving take place?Yes
 Will grades curving occur in this class?Yes
 Will there be curving of grade in the course?Yes
 Will you curve grades in this course?Yes
-What have the grade statistics for this class been in the past?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What have been the grade statistics for this course in the past?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What was the grade stats for this class in the past?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What is the grade statistics for this course in the past?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What have the grade figure for this class been in previous semesters?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What have the grade stats for this course been in the last class?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What have the grade statistics for this class been in the last semester?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What grade statistics did this class have in the past?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What grade figures had this class have in the previous semester?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What have the mark stats for this class been in the past?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What have been the score statistics for this course in the past?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What was the mark statistics for this class in the past?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What is the score figures for this course in the past?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What have the mark stats for this class been in previous semesters?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What have the score values for this class been in the last course?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What have the mark stats for this class been in the last semester?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What score statistics did this course have in the past?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What mark statistics had this class have in the previous semester?For the Fall 2015 KBAI class, the average was in the low 80s, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What have the grade statistics for this class been in the past?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What have been the grade statistics for this course in the past?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What was the grade stats for this class in the past?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What is the grade statistics for this course in the past?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What have the grade figure for this class been in previous semesters?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What have the grade stats for this course been in the last class?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What have the grade statistics for this class been in the last semester?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What grade statistics did this class have in the past?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What grade figures had this class have in the previous semester?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What have the mark stats for this class been in the past?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What have been the score statistics for this course in the past?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What was the mark statistics for this class in the past?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What is the score figures for this course in the past?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What have the mark stats for this class been in previous semesters?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What have the score values for this class been in the last course?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What have the mark stats for this class been in the last semester?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What score statistics did this course have in the past?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
+What mark statistics had this class have in the previous semester?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
 What are the word limits for the assignments?About 1000 words
 What are the word cap for the assignments?About 1000 words
 What are the word restriction for the assignments?About 1000 words
