@@ -480,14 +480,14 @@ How do I know which readings relate to which lectures?It will be provided in the
 How to figure out which readings relate to which material?It will be provided in the description of video lecture, project / you can always ask the TA's.
 How will I know what reading sets connected to which lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
 How can I know what readings lists associated to what videos?It will be provided in the description of video lecture, project / you can always ask the TA's.
-How would I know which readings are corelated to which lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How would I know which readings are correlated to which lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
 How do I know which readings relate to which classes?It will be provided in the description of video lecture, project / you can always ask the TA's.
 How to figure out what reading sets connected to what lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
 How will I know what readings material relate to which videos?It will be provided in the description of video lecture, project / you can always ask the TA's.
 How can I know what readings lists linked to what lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
 How would I know which readings are associated to which material?It will be provided in the description of video lecture, project / you can always ask the TA's.
 How do I know which readings relate to which lectures?It will be provided in the description of video lecture, project / you can always ask the TA's.
-How to figure out what readings corelated to what material?It will be provided in the description of video lecture, project / you can always ask the TA's.
+How to figure out what readings correlated to what material?It will be provided in the description of video lecture, project / you can always ask the TA's.
 Are the readings mandatory?It is not mandatory, but is strongly recommended as it will help improve the understanding of the subject.
 Are the readings list obligatory?It is not mandatory, but is strongly recommended as it will help improve the understanding of the subject.
 Are the readings set compulsory?It is not mandatory, but is strongly recommended as it will help improve the understanding of the subject.
@@ -571,7 +571,7 @@ Do the grades assigned to me by peers affect my grade?No. The primary purpose of
 Will the marks assigned to me by peers affect my grade?No. The primary purpose of supplying the graders with the results of the peer feedback process is to help the graders ensure every student gets useful feedback, as well as to ensure that the peer feedback received is accurate.
 Can the grades assigned to me by other students affect my marks?No. The primary purpose of supplying the graders with the results of the peer feedback process is to help the graders ensure every student gets useful feedback, as well as to ensure that the peer feedback received is accurate.
 Would the grades assigned to me by peers influence my grade?No. The primary purpose of supplying the graders with the results of the peer feedback process is to help the graders ensure every student gets useful feedback, as well as to ensure that the peer feedback received is accurate.
-Do the marks given to me by classmates effect my marks?No. The primary purpose of supplying the graders with the results of the peer feedback process is to help the graders ensure every student gets useful feedback, as well as to ensure that the peer feedback received is accurate.
+Do the marks given to me by classmates affect my marks?No. The primary purpose of supplying the graders with the results of the peer feedback process is to help the graders ensure every student gets useful feedback, as well as to ensure that the peer feedback received is accurate.
 Will the points granted to me by peers alter my marks?No. The primary purpose of supplying the graders with the results of the peer feedback process is to help the graders ensure every student gets useful feedback, as well as to ensure that the peer feedback received is accurate.
 Can the grades given to me by other students affect my grade?No. The primary purpose of supplying the graders with the results of the peer feedback process is to help the graders ensure every student gets useful feedback, as well as to ensure that the peer feedback received is accurate.
 Would the grades marked by peers affect my grade?No. The primary purpose of supplying the graders with the results of the peer feedback process is to help the graders ensure every student gets useful feedback, as well as to ensure that the peer feedback received is accurate.
@@ -641,22 +641,22 @@ What are the word count for the homeworks reports?Each assignment should be appr
 What is the maximum number of word for the homeworks?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is the assignments' word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is the homeworks word limits?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
-What are the individual weightages of the 2 unproctored exams?15% for mid-term exam and 20% for final exam
-What are the respective weightages of the midterm and final exams?15% for mid-term exam and 20% for final exam
-What are the specific weightages of the two un-proctored examination?15% for mid-term exam and 20% for final exam
-What are the weightages for each of the 2 unproctored exams?15% for mid-term exam and 20% for final exam
-What are the weightages associated of the 2 un-proctored examination?15% for mid-term exam and 20% for final exam
-What are the weightages for 2 unproctored exams?15% for mid-term exam and 20% for final exam
+What are the individual weights of the 2 unproctored exams?15% for mid-term exam and 20% for final exam
+What are the respective weights of the midterm and final exams?15% for mid-term exam and 20% for final exam
+What are the specific weights of the two un-proctored examination?15% for mid-term exam and 20% for final exam
+What are the weights for each of the 2 unproctored exams?15% for mid-term exam and 20% for final exam
+What are the weights associated of the 2 un-proctored examination?15% for mid-term exam and 20% for final exam
+What are the weights for 2 unproctored exams?15% for mid-term exam and 20% for final exam
 What are the individual importance of the two exams?15% for mid-term exam and 20% for final exam
 What are the respective value of the 2 unproctored midterm and final exams?15% for mid-term exam and 20% for final exam
 What are the specific importance of the 2 un protected exams?15% for mid-term exam and 20% for final exam
 What are the values for each of the two unproctored exams?15% for mid-term exam and 20% for final exam
 What are the weights associated of the two examination?15% for mid-term exam and 20% for final exam
 What are the values for 2 unproctored exams?15% for mid-term exam and 20% for final exam
-What are the distinct weightages of the 2 unproctored exams?15% for mid-term exam and 20% for final exam
+What are the distinct weights of the 2 unproctored exams?15% for mid-term exam and 20% for final exam
 What are the respective weights on the midterm and final examination?15% for mid-term exam and 20% for final exam
-What are the specific weightages of each one of un-proctored exams?15% for mid-term exam and 20% for final exam
-What are the individual weightages of each of the unproctored exams?15% for mid-term exam and 20% for final exam
+What are the specific weights of each one of un-proctored exams?15% for mid-term exam and 20% for final exam
+What are the individual weights of each of the unproctored exams?15% for mid-term exam and 20% for final exam
 What should I do to get good grades on this class?We encourage you to focus first on doing the best you can on all assignments; if you do, your grade should take care of itself.
 What can I do to get better grades on this course?We encourage you to focus first on doing the best you can on all assignments; if you do, your grade should take care of itself.
 What may I do to get excellent grades on this class?We encourage you to focus first on doing the best you can on all assignments; if you do, your grade should take care of itself.
@@ -692,20 +692,20 @@ How many assignments are there?There will be 3 assignments in the course.
 How much work to expect?There will be 3 assignments in the course.
 How many assignments to complete?There will be 3 assignments in the course.
 How many assignments to work on in this course?There will be 3 assignments in the course.
-What is the word limit for each assignmnet?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the word limit for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is the word count for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is the word limit for each homeworks?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is the word limit for each project?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is the word count for each work?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
-What is the limit of word for each assignmnets?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the limit of word for each assignments?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is the word cap for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is maximum number of word for each homework?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is max number of word limit for each project?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is the word restrain for each of my work?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
-What is the limit of word for each of my assignmnets?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the limit of word for each of my assignments?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is the word restriction for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is the word ceiling for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
-What is each assignmnets word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is each assignments word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is each assignment's word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is each homeworks' word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What is each project's word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
@@ -719,23 +719,23 @@ What topics will assignments cover?Each assignment relates to a certain topic or
 What materials assignments gonna deal with?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
 What fields projects going to cover?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
 What subjects will assignments include?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
-What themes gonne be covered in homeworks?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
+What themes gonna be covered in homeworks?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
 What points will be covered in assignments?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
 What topics will assignments deal with?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
 What materials assignments gonna examine?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
 What fields projects going to include?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
 What subjects will assignments incorporate?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
-What advanges does peer-to-peer feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What advantages does peer-to-peer feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
 What benefits does peer-to-peer feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
 What advantages does peer-to-peer evaluation provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
 What improvements does peer-to-peer feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
 What edge does peer feedback provide me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What advanges peer-to-peer assessments provide me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What advantages peer-to-peer assessments provide me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
 What benefits does peer-to-peer feedback give me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
 What advantages does student's evaluation supply me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
 What improvements does peer evaluation give me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
 What edge does peer-to-peer assessments supply me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What advanges does peer assessments provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What advantages does peer assessments provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
 What benefits does student's feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
 What advantages does feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
 What improvements does peer evaluation provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
@@ -784,16 +784,16 @@ How does peer-to-peer assessment impact our grade on the assignment?Peers will e
 How does peer-to-peer response impact our mark on the assignment?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
 How does peer assessment impact our score on the homework?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
 How does peer evaluation impact our points on the assignment?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
-How does peer-to-peer feedback effect our grade on the work?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
-How does peer feedback effect our mark on the assignment?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
-How does feedbacks effect my homework's grade?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
-How does assessment effect our score on the assignment?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
-How does peer-to-peer response effect my grade on the project?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
-How does peer-to-peer comment effect our assignment grade?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
-How does peer-to-peer evaluation effect our mark on the assignment?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
-How does peer-to-peer assessment effect my project score?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
-How does peer-to-peer response effect our assignment's grades?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
-How does peer assessment effect our grade on the homework?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
+How does peer-to-peer feedback affect our grade on the work?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
+How does peer feedback affect our mark on the assignment?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
+How does feedbacks affect my homework's grade?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
+How does assessment affect our score on the assignment?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
+How does peer-to-peer response affect my grade on the project?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
+How does peer-to-peer comment affect our assignment grade?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
+How does peer-to-peer evaluation affect our mark on the assignment?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
+How does peer-to-peer assessment affect my project score?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
+How does peer-to-peer response affect our assignment's grades?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
+How does peer assessment affect our grade on the homework?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
 How does peer evaluation impact our mark on the work?Peers will evaluate one another on the same rubric that graders will use; however, the scores you assign to your peers will not factor into their actual grades on the assignment.
 Do the TAs look at the feedback?TAs will see the feedback you give to your peers in order to ensure that all students receive adequate feedback.
 Do the instructors look at the feedback?TAs will see the feedback you give to your peers in order to ensure that all students receive adequate feedback.
@@ -819,18 +819,18 @@ How much of my mark depends on completing peer evaluation?Completing peer feedba
 How much of my grade rely on finishing peer comments?Completing peer feedback exercises is 8% of your average.
 How much of my score rely on completing peer feedback?Completing peer feedback exercises is 8% of your average.
 How much of my mark rely on completing peer assessment?Completing peer feedback exercises is 8% of your average.
-How much of my grade is effected by filling out peer response?Completing peer feedback exercises is 8% of your average.
-How much of my score effected by completing peer feedback?Completing peer feedback exercises is 8% of your average.
-How many of my marks are effected by completing peer feedback?Completing peer feedback exercises is 8% of your average.
+How much of my grade is affected by filling out peer response?Completing peer feedback exercises is 8% of your average.
+How much of my score affected by completing peer feedback?Completing peer feedback exercises is 8% of your average.
+How many of my marks are affected by completing peer feedback?Completing peer feedback exercises is 8% of your average.
 How many of my grade points depends on delivering peer feedback?Completing peer feedback exercises is 8% of your average.
 How much of my score depends on finishing peer feedback?Completing peer feedback exercises is 8% of your average.
 How much of my mark depends on finishing peer evaluation?Completing peer feedback exercises is 8% of your average.
 How much of my grade rely on completing peer comments?Completing peer feedback exercises is 8% of your average.
 How much of my score rely on delivering peer response?Completing peer feedback exercises is 8% of your average.
 How many points rely on completing peer assessment?Completing peer feedback exercises is 8% of your average.
-How much of my grade is effected by delivering peer comments?Completing peer feedback exercises is 8% of your average.
-How much of my score effected by completing peer review?Completing peer feedback exercises is 8% of your average.
-How many of my mark are effected by completing peer review?Completing peer feedback exercises is 8% of your average.
+How much of my grade is affected by delivering peer comments?Completing peer feedback exercises is 8% of your average.
+How much of my score affected by completing peer review?Completing peer feedback exercises is 8% of your average.
+How many of my mark are affected by completing peer review?Completing peer feedback exercises is 8% of your average.
 What percentage of my grade depends on my peer comments?Completing peer feedback exercises is 8% of your average.
 What portion of my mark is linked to my peer response?Completing peer feedback exercises is 8% of your average.
 What portion of my grade depends on my peer feedbacks?Completing peer feedback exercises is 8% of your average.
@@ -875,7 +875,7 @@ How will the midterm examination be distributed?Both exams will be an unproctore
 How will the final exam be distributed?Both exams will be an unproctored, untimed, "take-home" tests.
 How will the examination be distributed?Both exams will be an unproctored, untimed, "take-home" tests.
 How will the exams be provided?Both exams will be an unproctored, untimed, "take-home" tests.
-How will the exam test be given ?Both exams will be an unproctored, untimed, "take-home" tests.
+How will the exam test be given?Both exams will be an unproctored, untimed, "take-home" tests.
 How will the examination be delivered?Both exams will be an unproctored, untimed, "take-home" tests.
 How will the class exams be carried out?Both exams will be an unproctored, untimed, "take-home" tests.
 What format will the exams be given in?Both exams will consist of a number of different questions asking you to synthesize multiple parts of the course material.
@@ -920,21 +920,21 @@ What are the venues in which updated course material will be published?A T-Squar
 What are the ways in which latest course message is going to be published?A T-Square announcement with an email notification and a pinned Piazza announcement in the ‘announcements’ folder with an email notification.
 How often should you check your Georgia Tech email?Once every 24 hours
 How often should I check my Georgia Tech email?Once every 24 hours
-How may times should you check your GaTech email?Once every 24 hours
+How many times should you check your GaTech email?Once every 24 hours
 How often must you check your university email account?Once every 24 hours
 How often should you check your school email?Once every 24 hours
 How often should you check your Georgia Institute of Technology email?Once every 24 hours
 How frequently should you check your Georgia Tech email?Once every 24 hours
-How may times do I have to check my Georgia Tech email?Once every 24 hours
+How many times do I have to check my Georgia Tech email?Once every 24 hours
 How frequently should you check your GaTech email?Once every 24 hours
 How frequently should you check your university email?Once every 24 hours
 How frequently do you have to check your school email?Once every 24 hours
-How may times should you open your Georgia Tech mail?Once every 24 hours
+How many times should you open your Georgia Tech mail?Once every 24 hours
 How often must I open my Georgia Tech mail account?Once every 24 hours
 How often should you open your GaTech mail account?Once every 24 hours
 How often should you open your university mail?Once every 24 hours
 How often should you open your uni's email?Once every 24 hours
-How may times should I open my school email?Once every 24 hours
+How many times should I open my school email?Once every 24 hours
 How often it's advised to check Georgia Tech email?Once every 24 hours
 How often do you recommend to check Georgia Tech email?Once every 24 hours
 How often do you advise to check Georgia Tech email account?Once every 24 hours
@@ -1137,16 +1137,16 @@ Where will paragon reports be published?Exemplary assignments, once available, w
 Where can I get exemplary assignments?Exemplary assignments, once available, will be posted on piazza for everyone to see.
 Where may I get hold of example assignments?Exemplary assignments, once available, will be posted on piazza for everyone to see.
 Where do I obtain perfect assignments?Exemplary assignments, once available, will be posted on piazza for everyone to see.
-What is the point of posting examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why are you posting examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the reason for posting examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the reason for posting examplary works?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the point of posting examplary homework?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the purpose of posting examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why examplary assignments are posted?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why examplary homeworks are posted?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why examplary projects are published?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the point of displaying examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the point of posting exemplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why are you posting exemplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the reason for posting exemplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the reason for posting exemplary works?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the point of posting exemplary homework?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the purpose of posting exemplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why exemplary assignments are posted?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why exemplary homeworks are posted?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why exemplary projects are published?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the point of displaying exemplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
 What is the point of posting great assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
 What is the purpose of posting epitome assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
 What is the purpose of posting perfect assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
@@ -1155,13 +1155,13 @@ What is the point of posting ideal assignments?From previous semesters, we have 
 What is the purpose of posting perfect homeworks?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
 What is the point of posting paragon project?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
 What is the point of posting ideal works?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why do you post examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why do you publish examplary work?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why do you share examplary homework?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why do you post examplary project?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why are you posting examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the goal of sharing examplary homework?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the purpose for publishing examplary works?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why do you post exemplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why do you publish exemplary work?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why do you share exemplary homework?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why do you post exemplary project?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why are you posting exemplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the goal of sharing exemplary homework?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the purpose for publishing exemplary works?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
 Is late work accepted?Due to the size of the class and limited resources, late work will not be accepted.
 Will late work be accepted?Due to the size of the class and limited resources, late work will not be accepted.
 Will you accept late work?Due to the size of the class and limited resources, late work will not be accepted.
@@ -1205,7 +1205,7 @@ If I am having issues submitting my work, what should I do?If you are having iss
 If I am having problems turning in my homework, what should I do?If you are having issue submitting on T-square, immediately post a private note on Piazza with your submission.
 If I am having difficulties submitting my assignment, what should I do?If you are having issue submitting on T-square, immediately post a private note on Piazza with your submission.
 If I am having troubles submitting my project, what can I do?If you are having issue submitting on T-square, immediately post a private note on Piazza with your submission.
-If I am having troubles submitting my repot, what must I do?If you are having issue submitting on T-square, immediately post a private note on Piazza with your submission.
+If I am having troubles submitting my report, what must I do?If you are having issue submitting on T-square, immediately post a private note on Piazza with your submission.
 If I am having troubles submitting my paper, what do I have I do?If you are having issue submitting on T-square, immediately post a private note on Piazza with your submission.
 What if I have an emergency and cannot submit my work on time?If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office
 What if I cannot submit my work on time due to an emergency?If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office
@@ -1260,7 +1260,7 @@ Is this class the same as the previous term?No. every semester is a learning exp
 Is this course the identical as the last semesters?No. every semester is a learning experience. Each subsequent semesters benefit from the lessons learned the previous semesters.
 Is this class the same as the last term?No. every semester is a learning experience. Each subsequent semesters benefit from the lessons learned the previous semesters.
 Is this KBAI course the same as the previous one?No. every semester is a learning experience. Each subsequent semesters benefit from the lessons learned the previous semesters.
-Is this this KBAI class the same as the previous?No. every semester is a learning experience. Each subsequent semesters benefit from the lessons learned the previous semesters.
+Is this KBAI class the same as the previous?No. every semester is a learning experience. Each subsequent semesters benefit from the lessons learned the previous semesters.
 Is this class the similar as the last term?No. every semester is a learning experience. Each subsequent semesters benefit from the lessons learned the previous semesters.
 Is the course the identical to the previous KBAI class?No. every semester is a learning experience. Each subsequent semesters benefit from the lessons learned the previous semesters.
 Is the course the equivalent to the previous one?No. every semester is a learning experience. Each subsequent semesters benefit from the lessons learned the previous semesters.
@@ -1388,11 +1388,11 @@ Where assignment 2 is posted?https://drive.google.com/drive/folders/0ByL9Kt_U_JJ
 Where assignment 2 is published?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where to locate assignment 2?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find assignment 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
-Where can I find assignment tree?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where can I find assignment three?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where to find assignment 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
-Where to find assignment tree?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where to find assignment three?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where is assignment 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
-Where is assignment tree?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where is assignment three?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where is the last assignment?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where to find the last assignment?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find last assignment?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
@@ -1427,12 +1427,12 @@ Where project 2 is posted?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQm
 Where project 2 is published?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where to locate project 2?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find project 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
-Where can I find project tree?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where can I find project three?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where to find project 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where to locate project 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
-Where to find project tree?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where to find project three?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where is project 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
-Where is project tree?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where is project three?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where is the last project?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where to find the last project?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find last project?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
@@ -1454,7 +1454,7 @@ When is the last day for assignment 2?Week of September 25th
 What is the due date for the second assignment?Week of September 25th
 What is the due date for assignment 2?Week of September 25th
 When is assignment 3 due?Week of October 30th
-When assignment tree is due?Week of October 30th
+When assignment three is due?Week of October 30th
 When assignment 3 is due?Week of October 30th
 When the last assignment is due?Week of October 30th
 When is the last day for assignment 3?Week of October 30th
@@ -1475,7 +1475,7 @@ When is the last day for project 2?Week of October 9th
 What is the due date for the second project?Week of October 9th
 What is the due date for project 2?Week of October 9th
 When is project 3 due?Week of November 6th
-When project tree is due?Week of November 6th
+When project three is due?Week of November 6th
 When project 3 is due?Week of November 6th
 When the last project is due?Week of November 6th
 When is the last day for project 3?Week of November 6th
@@ -1490,8 +1490,8 @@ When will the midterm be?Week of October 2nd
 When would the midterm exam be?Week of October 2nd
 When to expect midterm examination?Week of October 2nd
 When is the midterm examination?Week of October 2nd
-What's the final exam's date?Week of October 2nd
-What's the final examination's day?Week of October 2nd
+What's the final exam's date?Week of November 27th
+What's the final examination's day?Week of November 27th
 When is the final?Week of November 27th
 When is the date of the final?Week of November 27th
 When to expect finals?Week of November 27th
