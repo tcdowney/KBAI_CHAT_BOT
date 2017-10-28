@@ -151,19 +151,19 @@ Do we work on projects individually or in group?Projects will be done individual
 Do we work on assignment separately or in group?Projects will be done individually.
 Do we deliver projects together or separately?Projects will be done individually.
 Do we work on projects together or separately?Projects will be done individually.
-What are the primary learning goals for KBAI?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What will be the primary learning goals for KBAI class?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the main learning goals for KBAI course?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the key learning goals for this course?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the prime learning goals for this class?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the principal learning goals for the class?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the primary learning objectives for KBAI class?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What will be the primary learning objectives for KBAI?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the main learning targets for KBAI?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What would be the key learning objectives for KBAI?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the prime learning results for KBAI?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the principal learning objectives for KBAI?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the main learning goals for KBAI class?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the primary learning goals for KBAI?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What will be the primary learning goals for KBAI class?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the main learning goals for KBAI course?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the key learning goals for this course?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the prime learning goals for this class?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the principal learning goals for the class?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the primary learning objectives for KBAI class?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What will be the primary learning objectives for KBAI?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the main learning targets for KBAI?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What would be the key learning objectives for KBAI?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the prime learning results for KBAI?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the principal learning objectives for KBAI?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the main learning goals for KBAI class?The primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
 What is the structure of this course?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
 What is the architecture of this class?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
 What is the arrangement of the course?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
@@ -382,35 +382,35 @@ Am I allowed to use other programming languages?No
 Can I use other programming languages writing codes?No
 Would it be OK to use other programming languages for assignments?No
 Can I use other programming languages to code?No
-How many essays will I have to write?8. Three Assignements, three reflection reports and two examinations.
-How many reports will I have to write?8. Three Assignements, three reflection reports and two examinations.
-How many papers do I have to compose?8. Three Assignements, three reflection reports and two examinations.
-How many works will I have to submit?8. Three Assignements, three reflection reports and two examinations.
-How many reflections I must write?8. Three Assignements, three reflection reports and two examinations.
-How many report papers am I required to write?8. Three Assignements, three reflection reports and two examinations.
-How many assignments do I have to turn in?8. Three Assignements, three reflection reports and two examinations.
-How many project reports would I have to write?8. Three Assignements, three reflection reports and two examinations.
-How many assignment essays I must write?8. Three Assignements, three reflection reports and two examinations.
-How many homework essays do you want me to write?8. Three Assignements, three reflection reports and two examinations.
-How can I engage with my classmates?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How should I engage with my fellow student?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How may I engage with my classmates?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How would I engage with students?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How do I engage with my peers?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How can I get involved with my fellow pupil?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How should I communicate with my classmates?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How may I participate with other students?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How would I chat with my contemporaries?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-How do I connect with other students in the class?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
-Will I have to work independently?Yes. You will have to work independently on design,programming and reflections.
-Do I have to study by myself?Yes. You will have to work independently on design,programming and reflections.
-Can I work independently?Yes. You will have to work independently on design,programming and reflections.
-Should I study autonomously?Yes. You will have to work independently on design,programming and reflections.
-Would I have to work alone?Yes. You will have to work independently on design,programming and reflections.
-Do we have to do everything independently?Yes. You will have to work independently on design,programming and reflections.
-Must I learn independently?Yes. You will have to work independently on design,programming and reflections.
-Am I expected to work on my own?Yes. You will have to work independently on design,programming and reflections.
-Do you want me to study by myself?Yes. You will have to work independently on design,programming and reflections.
+How many essays will I have to write?8. Three Assignments, three reflection reports and two examinations.
+How many reports will I have to write?8. Three Assignments, three reflection reports and two examinations.
+How many papers do I have to compose?8. Three Assignments, three reflection reports and two examinations.
+How many works will I have to submit?8. Three Assignments, three reflection reports and two examinations.
+How many reflections I must write?8. Three Assignments, three reflection reports and two examinations.
+How many report papers am I required to write?8. Three Assignments, three reflection reports and two examinations.
+How many assignments do I have to turn in?8. Three Assignments, three reflection reports and two examinations.
+How many project reports would I have to write?8. Three Assignments, three reflection reports and two examinations.
+How many assignment essays I must write?8. Three Assignments, three reflection reports and two examinations.
+How many homework essays do you want me to write?8. Three Assignments, three reflection reports and two examinations.
+How can I engage with my classmates?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How should I engage with my fellow student?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How may I engage with my classmates?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How would I engage with students?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How do I engage with my peers?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How can I get involved with my fellow pupil?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How should I communicate with my classmates?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How may I participate with other students?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How would I chat with my contemporaries?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+How do I connect with other students in the class?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
+Will I have to work independently?Yes. You will have to work independently on design, programming and reflections.
+Do I have to study by myself?Yes. You will have to work independently on design, programming and reflections.
+Can I work independently?Yes. You will have to work independently on design, programming and reflections.
+Should I study autonomously?Yes. You will have to work independently on design, programming and reflections.
+Would I have to work alone?Yes. You will have to work independently on design, programming and reflections.
+Do we have to do everything independently?Yes. You will have to work independently on design, programming and reflections.
+Must I learn independently?Yes. You will have to work independently on design, programming and reflections.
+Am I expected to work on my own?Yes. You will have to work independently on design, programming and reflections.
+Do you want me to study by myself?Yes. You will have to work independently on design, programming and reflections.
 Will I have to do additional reading for this class?Yes
 Do I have to do additional reading for this course?Yes
 Would I have to do additional reading for this class?Yes
@@ -692,23 +692,23 @@ How many assignments are there?There will be 3 assignments in the course.
 How much work to expect?There will be 3 assignments in the course.
 How many assignments to complete?There will be 3 assignments in the course.
 How many assignments to work on in this course?There will be 3 assignments in the course.
-What is the word limit for each assignmnet?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is the word count for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is the word limit for each homeworks?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is the word limit for each project?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is the word count for each work?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is the limit of word for each assignmnets?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is the word cap for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is maximum number of word for each homework?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is max number of word limit for each project?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is the word restrain for each of my work?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is the limit of word for each of my assignmnets?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is the word restriction for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is the word ceiling for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is each assignmnets word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is each assignment's word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is each homeworks' word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
-What is each project's word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic.
+What is the word limit for each assignmnet?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the word count for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the word limit for each homeworks?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the word limit for each project?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the word count for each work?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the limit of word for each assignmnets?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the word cap for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is maximum number of word for each homework?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is max number of word limit for each project?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the word restrain for each of my work?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the limit of word for each of my assignmnets?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the word restriction for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the word ceiling for each assignment?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is each assignmnets word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is each assignment's word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is each homeworks' word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is each project's word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What topics do the assignments cover?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
 What materials do the homeworks cover?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
 What fields do the assignments deal with?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
@@ -725,21 +725,21 @@ What topics will assignments deal with?Each assignment relates to a certain topi
 What materials assignments gonna examine?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
 What fields projects going to include?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
 What subjects will assignments incorporate?Each assignment relates to a certain topic or set of topics in the course material to some problem. For Assignments 1 the problem should be the class project. For Assignments 2, we will provide a list of problems that you can choose from. For Assignments 3, you may choose from that same list, or you may select a problem of your own.
-What advanges does peer-to-peer feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What benefits does peer-to-peer feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What advantages does peer-to-peer evaluation provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What improvements does peer-to-peer feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What edge does peer feedback provide me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What advanges peer-to-peer assessments provide me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What benefits does peer-to-peer feedback give me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What advantages does student's evaluation supply me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What improvements does peer evaluation give me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What edge does peer-to-peer assessments supply me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What advanges does peer assessments provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What benefits does student's feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What advantages does feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What improvements does peer evaluation provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
-What edge does feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates’ work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What advanges does peer-to-peer feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What benefits does peer-to-peer feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What advantages does peer-to-peer evaluation provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What improvements does peer-to-peer feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What edge does peer feedback provide me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What advanges peer-to-peer assessments provide me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What benefits does peer-to-peer feedback give me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What advantages does student's evaluation supply me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What improvements does peer evaluation give me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What edge does peer-to-peer assessments supply me with?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What advanges does peer assessments provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What benefits does student's feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What advantages does feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What improvements does peer evaluation provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
+What edge does feedback provide me?Peer-to-peer feedback provides a number of opportunities: it gives you the opportunity to see your classmates' work, it gets you more feedback on your work than you would otherwise receive, and it puts you in the position of critiquing and analyzing course material.
 How do I participate in peer feedback?We will use a tool called Peer Feedback -- peerfeedback.gatech.edu -- to give peer-to-peer feedback in this class.
 How can I participate in feedback?We will use a tool called Peer Feedback -- peerfeedback.gatech.edu -- to give peer-to-peer feedback in this class.
 How should I participate in peer-to-peer feedback?We will use a tool called Peer Feedback -- peerfeedback.gatech.edu -- to give peer-to-peer feedback in this class.
@@ -866,18 +866,18 @@ How many exams gonna be in the class?The course includes 2 take home examination
 How many exams will in this class?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
 What is the number of examinations in the course?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
 What is the number of exams in the class?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
-How will the exams be distributed?Both exams will be an unproctored, untimed, “take-home” tests.
-How will the exams be delivered?Both exams will be an unproctored, untimed, “take-home” tests.
-How will the exams be hand out?Both exams will be an unproctored, untimed, “take-home” tests.
-How do you distribute the exams?Both exams will be an unproctored, untimed, “take-home” tests.
-How do you deliver the examination?Both exams will be an unproctored, untimed, “take-home” tests.
-How will the midterm examination be distributed?Both exams will be an unproctored, untimed, “take-home” tests.
-How will the final exam be distributed?Both exams will be an unproctored, untimed, “take-home” tests.
-How will the examination be distributed?Both exams will be an unproctored, untimed, “take-home” tests.
-How will the exams be provided?Both exams will be an unproctored, untimed, “take-home” tests.
-How will the exam test be given ?Both exams will be an unproctored, untimed, “take-home” tests.
-How will the examination be delivered?Both exams will be an unproctored, untimed, “take-home” tests.
-How will the class exams be carried out?Both exams will be an unproctored, untimed, “take-home” tests.
+How will the exams be distributed?Both exams will be an unproctored, untimed, "take-home" tests.
+How will the exams be delivered?Both exams will be an unproctored, untimed, "take-home" tests.
+How will the exams be hand out?Both exams will be an unproctored, untimed, "take-home" tests.
+How do you distribute the exams?Both exams will be an unproctored, untimed, "take-home" tests.
+How do you deliver the examination?Both exams will be an unproctored, untimed, "take-home" tests.
+How will the midterm examination be distributed?Both exams will be an unproctored, untimed, "take-home" tests.
+How will the final exam be distributed?Both exams will be an unproctored, untimed, "take-home" tests.
+How will the examination be distributed?Both exams will be an unproctored, untimed, "take-home" tests.
+How will the exams be provided?Both exams will be an unproctored, untimed, "take-home" tests.
+How will the exam test be given ?Both exams will be an unproctored, untimed, "take-home" tests.
+How will the examination be delivered?Both exams will be an unproctored, untimed, "take-home" tests.
+How will the class exams be carried out?Both exams will be an unproctored, untimed, "take-home" tests.
 What format will the exams be given in?Both exams will consist of a number of different questions asking you to synthesize multiple parts of the course material.
 What is the format of the exams?Both exams will consist of a number of different questions asking you to synthesize multiple parts of the course material.
 What will be the format of given exams?Both exams will consist of a number of different questions asking you to synthesize multiple parts of the course material.
@@ -960,28 +960,28 @@ Where would you prefer me to put my inquiries?Piazza
 Where should you preferably place questions?Piazza
 Where do you want us to put my inquiries?Piazza
 Where do you want me to place questions?Piazza
-What questions are better suited for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What type of questions are better suited for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What kind of questions are better suited for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What questions are preferred for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What type of questions are preferable for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What kind of questions are preferable for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What questions are more appropriate for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What type of questions are more appropriate for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What kind of questions are more appropriate for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What inquiries are better suited for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What type of questions are better suited for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What kind of inquiries are better suited for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What questions are preferred for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What type of inquiries are preferable for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What kind of questions are preferable for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What questions are befitting for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What type of inquiries are befitting for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What kind of questions are befitting for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What questions are well suited for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What sort of questions are properly suited for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What sort of inquiries are well-suited for office hours?Conversational discussions on course material and discussions about individuals’ grades.
-What requests are good for office hours?Conversational discussions on course material and discussions about individuals’ grades.
+What questions are better suited for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What type of questions are better suited for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What kind of questions are better suited for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What questions are preferred for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What type of questions are preferable for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What kind of questions are preferable for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What questions are more appropriate for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What type of questions are more appropriate for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What kind of questions are more appropriate for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What inquiries are better suited for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What type of questions are better suited for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What kind of inquiries are better suited for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What questions are preferred for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What type of inquiries are preferable for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What kind of questions are preferable for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What questions are befitting for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What type of inquiries are befitting for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What kind of questions are befitting for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What questions are well suited for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What sort of questions are properly suited for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What sort of inquiries are well-suited for office hours?Conversational discussions on course material and discussions about individuals' grades.
+What requests are good for office hours?Conversational discussions on course material and discussions about individuals' grades.
 Why is Piazza preferred for asking questions related to the class?Posting on piazza opens up the question to input from everyone in the class and creates a self-documenting history of the answer to the question.
 Why do you prefer Piazza for asking questions related to this class?Posting on piazza opens up the question to input from everyone in the class and creates a self-documenting history of the answer to the question.
 Why is Piazza favored for asking questions associated to the class?Posting on piazza opens up the question to input from everyone in the class and creates a self-documenting history of the answer to the question.
@@ -1162,26 +1162,26 @@ Why do you post examplary project?From previous semesters, we have found that po
 Why are you posting examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
 What is the goal of sharing examplary homework?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
 What is the purpose for publishing examplary works?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Is late work accepted?Due to the size of the class and limited resources, late work will not be accepted
-Will late work be accepted?Due to the size of the class and limited resources, late work will not be accepted
-Will you accept late work?Due to the size of the class and limited resources, late work will not be accepted
-Is late assignment accepted?Due to the size of the class and limited resources, late work will not be accepted
-Is late project accepted?Due to the size of the class and limited resources, late work will not be accepted
-Is work accepted after due date?Due to the size of the class and limited resources, late work will not be accepted
-Is homework accepted after due date?Due to the size of the class and limited resources, late work will not be accepted
-Is project accepted after due date?Due to the size of the class and limited resources, late work will not be accepted
-Is paper accepted passed due date?Due to the size of the class and limited resources, late work will not be accepted
-Is work accepted after its due date?Due to the size of the class and limited resources, late work will not be accepted
-Would you accept late work?Due to the size of the class and limited resources, late work will not be accepted
-Would you accept late homework?Due to the size of the class and limited resources, late work will not be accepted
-Would you accept late assignment?Due to the size of the class and limited resources, late work will not be accepted
-Would you accept late work?Due to the size of the class and limited resources, late work will not be accepted
-Will late homework be accepted?Due to the size of the class and limited resources, late work will not be accepted
-Is late work acceptable?Due to the size of the class and limited resources, late work will not be accepted
-Is submitting work after due date acceptable?Due to the size of the class and limited resources, late work will not be accepted
-Is turning in homework after due date OK?Due to the size of the class and limited resources, late work will not be accepted
-Is submitting assignment after due date passed acceptable?Due to the size of the class and limited resources, late work will not be accepted
-Is turning in project after due date permitted?Due to the size of the class and limited resources, late work will not be accepted
+Is late work accepted?Due to the size of the class and limited resources, late work will not be accepted.
+Will late work be accepted?Due to the size of the class and limited resources, late work will not be accepted.
+Will you accept late work?Due to the size of the class and limited resources, late work will not be accepted.
+Is late assignment accepted?Due to the size of the class and limited resources, late work will not be accepted.
+Is late project accepted?Due to the size of the class and limited resources, late work will not be accepted.
+Is work accepted after due date?Due to the size of the class and limited resources, late work will not be accepted.
+Is homework accepted after due date?Due to the size of the class and limited resources, late work will not be accepted.
+Is project accepted after due date?Due to the size of the class and limited resources, late work will not be accepted.
+Is paper accepted passed due date?Due to the size of the class and limited resources, late work will not be accepted.
+Is work accepted after its due date?Due to the size of the class and limited resources, late work will not be accepted.
+Would you accept late work?Due to the size of the class and limited resources, late work will not be accepted.
+Would you accept late homework?Due to the size of the class and limited resources, late work will not be accepted.
+Would you accept late assignment?Due to the size of the class and limited resources, late work will not be accepted.
+Would you accept late work?Due to the size of the class and limited resources, late work will not be accepted.
+Will late homework be accepted?Due to the size of the class and limited resources, late work will not be accepted.
+Is late work acceptable?Due to the size of the class and limited resources, late work will not be accepted.
+Is submitting work after due date acceptable?Due to the size of the class and limited resources, late work will not be accepted.
+Is turning in homework after due date OK?Due to the size of the class and limited resources, late work will not be accepted.
+Is submitting assignment after due date passed acceptable?Due to the size of the class and limited resources, late work will not be accepted.
+Is turning in project after due date permitted?Due to the size of the class and limited resources, late work will not be accepted.
 What should I do if I am having issues submitting my work?If you are having issue submitting on T-square, immediately post a private note on Piazza with your submission.
 What can I do if I am having issues submitting my work?If you are having issue submitting on T-square, immediately post a private note on Piazza with your submission.
 What to do if I am having issues submitting my work?If you are having issue submitting on T-square, immediately post a private note on Piazza with your submission.
@@ -1308,20 +1308,20 @@ How many surveys are there?There will be 4 surveys. 3 will be administered throu
 How many surveys are in KBAI?There will be 4 surveys. 3 will be administered throughout the course, and the 4th will be administered by Georgia Tech via CIOS.
 How many surveys are in this KBAI class?There will be 4 surveys. 3 will be administered throughout the course, and the 4th will be administered by Georgia Tech via CIOS.
 How many surveys can I expect?There will be 4 surveys. 3 will be administered throughout the course, and the 4th will be administered by Georgia Tech via CIOS.
-How can I contact the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How to contact the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How should I contact the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I contact the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How to reach out the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How to get in touch with the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I make contact with the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I approach the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I speak to the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I get hold of the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How may I communicate with the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How to call the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I email the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I talk the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I contact the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How to contact the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How should I contact the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I contact the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How to reach out the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How to get in touch with the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I make contact with the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I approach the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I speak to the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I get hold of the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How may I communicate with the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How to call the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I email the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I talk the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
 What if my conflict falls during the final?If your conflict falls during final exams, please let us know immediately and in advance so that we may work with you.
 What if I have a conflict during the final?If your conflict falls during final exams, please let us know immediately and in advance so that we may work with you.
 What to do is if have a conflict that falls during the final examination?If your conflict falls during final exams, please let us know immediately and in advance so that we may work with you.
