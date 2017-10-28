@@ -55,52 +55,41 @@ Do we need more reading beside lectures?The videos have ~150 exercises and ~100 
 Do we need more reading beside videos?The videos have ~150 exercises and ~100 “tutors” embedded in them.
 Do we need to read more accompanying reading?The videos have ~150 exercises and ~100 “tutors” embedded in them.
 Do we need to do more reading after lectures?The videos have ~150 exercises and ~100 “tutors” embedded in them.
-Are there additional readings?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list. 
-Do we need to read additional material?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list. 
-Is there more reading?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list. 
-Will we be required to do additional reading?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list. 
-Will there be more readings?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list. 
-Are there extra readings?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list. 
-Is there any further readings?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list. 
-Are there bonus readings?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list. 
-Are there additional readings materials?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list. 
-Are there additional readings involved?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list. 
-Do you expect us to read additional material?Most lessons have an accompanying set of readings. While video lessons introduce the basic concepts and methods, the readings provide the detailed algorithms. The projects are accompanied with a reading list. 
-Who will give peer feedback?Yes
-Will I need to perform peer reviews?Yes
-Who will perform peer reviews?Yes
-Who gives students peer feedback?Yes
-Who can give peer-to-peer feedback?Yes
-Who would give student feedback?Yes
-Who should give peer feedback?Yes
-Can students give peer feedback?Yes
-Who writes peer feedback?Yes
-Who is responsible for peer feedback?Yes
-Who creates peer feedback?Yes
-Where do I go for announcements?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where do I check announcements?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where do I find announcements?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where can I find announcements?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where do I go for notices?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where do I go for statements?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where do I go for messages?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where do I go for news?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where should I go for announcements?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where would I go for notices?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where will I find statements?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where can I get for messages?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where do you post announcements?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where do you post messages?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where do you publish new?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where do you post statements?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where announcements are posted?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where news are posted?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where statements are published?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Where notices are displayed?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
-Do I need to log into Piazza regularly?We will use the Piazza forum for announcements, question answering, discussions, and collaboration. 
-Is it important to log into Piazza frequently?We will use the Piazza forum for announcements, question answering, discussions, and collaboration. 
-Should I to login Piazza on a regular basis?We will use the Piazza forum for announcements, question answering, discussions, and collaboration. 
-Do I have to monitor Piazza regularly?We will use the Piazza forum for announcements, question answering, discussions, and collaboration. 
+Who will give peer feedback?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Will I need to perform peer reviews?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Who will perform peer reviews?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Who gives students peer feedback?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Who can give peer-to-peer feedback?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Who would give student feedback?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Who should give peer feedback?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Can students give peer feedback?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Who writes peer feedback?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Who is responsible for peer feedback?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Who creates peer feedback?We will expect each student to give feedback on the work of 3 randomly selected peers for each of the 8 assignments. We will also select and share the best assignments, which will form another kind of peer feedback.
+Where do I go for announcements?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where do I check announcements?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where do I find announcements?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where can I find announcements?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where do I go for notices?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where do I go for statements?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where do I go for messages?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where do I go for news?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where should I go for announcements?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where would I go for notices?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where will I find statements?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where can I get for messages?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where do you post announcements?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where do you post messages?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where do you publish new?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where do you post statements?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where announcements are posted?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where news are posted?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where statements are published?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Where notices are displayed?We will use the Piazza forum for announcements, question answering, discussions, and collaboration.
+Do I need to log into Piazza regularly?It is important that you log into Piazza regularly and frequently (at least two or three times a week, daily if possible).
+Is it important to log into Piazza frequently?It is important that you log into Piazza regularly and frequently (at least two or three times a week, daily if possible).
+Should I to login Piazza on a regular basis?It is important that you log into Piazza regularly and frequently (at least two or three times a week, daily if possible).
+Do I have to monitor Piazza regularly?It is important that you log into Piazza regularly and frequently (at least two or three times a week, daily if possible).
 Do you recommend to log into Piazza frequently?It is important that you log into Piazza regularly and frequently (at least two or three times a week, daily if possible).
 Do you require to login Piazza regularly?It is important that you log into Piazza regularly and frequently (at least two or three times a week, daily if possible).
 Would you suggest to log into Piazza often?It is important that you log into Piazza regularly and frequently (at least two or three times a week, daily if possible).
@@ -134,14 +123,14 @@ How instructors give examinations?The examinations will involve significant amou
 How instructors handle exams?The examinations will involve significant amount of essay writing and will test knowledge on the video lessons and accompanying readings.
 How professor deliver class exams?The examinations will involve significant amount of essay writing and will test knowledge on the video lessons and accompanying readings.
 How teaching staff give examinations?The examinations will involve significant amount of essay writing and will test knowledge on the video lessons and accompanying readings.
-How many exams are there?The course includes 2 take home examinations.
-How many exams should I expect?The course includes 2 take home examinations.
-How many exams are in the course?The course includes 2 take home examinations.
-How many exams are in this class?The course includes 2 take home examinations.
-How many exams are in KBAI?The course includes 2 take home examinations.
-How many exams can we expect?The course includes 2 take home examinations.
-How often are the exams?The course includes 2 take home examinations.
-How many exams to study for?The course includes 2 take home examinations.
+How many exams are there?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams should I expect?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams are in the course?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams are in this class?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams are in KBAI?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams can we expect?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How often are the exams?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams to study for?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
 Do I need to know computer vision?The projects do not require any specialized knowledge of computer vision or image processing.
 Is computer vision essential?The projects do not require any specialized knowledge of computer vision or image processing.
 Is computer vision vital?The projects do not require any specialized knowledge of computer vision or image processing.
@@ -162,50 +151,50 @@ Do we work on projects individually or in group?Projects will be done individual
 Do we work on assignment separately or in group?Projects will be done individually.
 Do we deliver projects together or separately?Projects will be done individually.
 Do we work on projects together or separately?Projects will be done individually.
-What are the primary learning goals for KBAI?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What will be the primary learning goals for KBAI class?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the main learning goals for KBAI course?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the key learning goals for this course?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the prime learning goals for this class?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the principal learning goals for the class?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the primary learning objectives for KBAI class?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What will be the primary learning objectives for KBAI?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the main learning targets for KBAI?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What would be the key learning objectives for KBAI?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the prime learning results for KBAI?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the principal learning objectives for KBAI?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What are the main learning goals for KBAI class?TThe primary learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
-What is the structure of this course?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity. 
-What is the architecture of this class?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity. 
-What is the arrangement of the course?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity. 
-What is the composition of KBAI class?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity. 
-What is this course structured?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity. 
-What is the class organized?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity. 
-What is KBAI formatted?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity. 
-What is this class arranged?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity. 
-What is the format of this course?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity. 
-What is the make up of this class?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity. 
-What will I learn in this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains. 
-What would I learn in this course?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains. 
-What can I learn in this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains. 
-What should I learn in this course?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains. 
-What can I expect to learn in this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains. 
-What will this class teach me?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains. 
-What will this course educate me?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains. 
-What will this class teach me?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains. 
-What will I get from this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains. 
-What will I find in this course?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains. 
-What would we acquire in this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains. 
-What can I absorb from this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains. 
-What is the Technical Report?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course. 
-What will be the Technical Report?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course. 
-What would be the Technical work?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course. 
-What Technical Report is?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course. 
-What represents Technical writing?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course. 
-What expected as Technical essay?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course. 
-What counts as the Technical Report?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course. 
-What stands for the Technical deliverable?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course. 
-What to submit as the Technical Report?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course. 
+What are the primary learning goals for KBAI?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What will be the primary learning goals for KBAI class?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the main learning goals for KBAI course?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the key learning goals for this course?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the prime learning goals for this class?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the principal learning goals for the class?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the primary learning objectives for KBAI class?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What will be the primary learning objectives for KBAI?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the main learning targets for KBAI?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What would be the key learning objectives for KBAI?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the prime learning results for KBAI?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the principal learning objectives for KBAI?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What are the main learning goals for KBAI class?The primal learning goals are: First, this class teaches the concepts, methods, and prominent issues in knowledge-based artificial intelligence. Second, it teaches the specific skills and abilities needed to apply those concepts to the design of knowledge-based AI agents. Third, it teaches the relationship between knowledge-based artificial intelligence and the study of human cognition.
+What is the structure of this course?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
+What is the architecture of this class?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
+What is the arrangement of the course?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
+What is the composition of KBAI class?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
+What is this course structured?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
+What is the class organized?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
+What is KBAI formatted?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
+What is this class arranged?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
+What is the format of this course?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
+What is the make up of this class?The structure of this course is driven by several pedagogical motivations: learning by example, learning by doing, project-based learning, personalization, collaborative learning, peer-to-peer learning, self-reflection and authenticity.
+What will I learn in this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
+What would I learn in this course?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
+What can I learn in this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
+What should I learn in this course?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
+What can I expect to learn in this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
+What will this class teach me?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
+What will this course educate me?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
+What will this class teach me?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
+What will I get from this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
+What will I find in this course?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
+What would we acquire in this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
+What can I absorb from this class?At the conclusion of this class: first you will have learned to be able to design and implement a knowledge-based artificial intelligence agent that can address a complex task using the methods discussed in the course. Second, you will be able to use this agent to reflect on the process of human cognition. Third, you will be able to use both these practices to address practical problems in multiple domains.
+What is the Technical Report?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course.
+What will be the Technical Report?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course.
+What would be the Technical work?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course.
+What Technical Report is?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course.
+What represents Technical writing?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course.
+What expected as Technical essay?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course.
+What counts as the Technical Report?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course.
+What stands for the Technical deliverable?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course.
+What to submit as the Technical Report?The Technical Report is a document that provides more detailed accounts of learning goals, strategies, and outcomes of this course.
 How is this class taught?Each topic is taught through examples of the way in which humans and artificial intelligence agents approach certain problems, often building from human thought toward AI agents and subsequently referring back to human cognition.
 How will this course be taught?Each topic is taught through examples of the way in which humans and artificial intelligence agents approach certain problems, often building from human thought toward AI agents and subsequently referring back to human cognition.
 How would this class be taught?Each topic is taught through examples of the way in which humans and artificial intelligence agents approach certain problems, often building from human thought toward AI agents and subsequently referring back to human cognition.
@@ -342,36 +331,26 @@ Do I have to watch course lectures before the course?Students are welcome and en
 Is it OK to watch pre-recorded lectures in advance?Students are welcome and encouraged to proceed at their own pace throughout the lessons, including viewing them outside of the designed order to better align with their interests.
 Do I watch recorded lectures before semester?Students are welcome and encouraged to proceed at their own pace throughout the lessons, including viewing them outside of the designed order to better align with their interests.
 Shall I watch class lectures earlier?Students are welcome and encouraged to proceed at their own pace throughout the lessons, including viewing them outside of the designed order to better align with their interests.
-Can I discuss completed assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-May I discuss completed projects with classmates?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Is it OK to discuss finalized assignments with peers?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Is it allowed to discuss finished assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Would it be OK to discuss completed homework with my classmates?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Should I discuss completed assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Can I deliberate completed assignments with peers?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-May I debate finished assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Is it OK to chat about finalized coursework with my fellow students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Is it allowed to talk about completed assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Would it be OK to review completed assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Should I go through completed homework with my peers?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Can I discuss finished assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-May I discuss finalized assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Is it OK to discuss finished work with other my fellow peers?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Is it allowed to discuss complete assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Would it be OK to discuss closed projects with other classmates?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Should I discuss completed work with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-Can I go through completed assignments with my classmates?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-May I talk about my finished assignments with another student?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment. 
-My answer is yes to a majority of questions.Can I take this course?You can take this course if your answer is a strong yes to all the questions.
-My response is yes to a many of questions.Should I take KBAI?You can take this course if your answer is a strong yes to all the questions.
-My reply is yes to a majority of questions.Can I take this course?You can take this course if your answer is a strong yes to all the questions.
-I answered is yes to a most of questions.Can I enroll in this class?You can take this course if your answer is a strong yes to all the questions.
-I replied yes to a majority of questions.May I take the course?You can take this course if your answer is a strong yes to all the questions.
-My answer is yes to a most of questions.Can I enroll in this course?You can take this course if your answer is a strong yes to all the questions.
-My response is yes to a majority of questions.Can I take this class?You can take this course if your answer is a strong yes to all the questions.
-My reply is yes to a majority of queries. May I enroll in this course?You can take this course if your answer is a strong yes to all the questions.
-I mainly answered is yes to the list of questions.Can I take KBAI?You can take this course if your answer is a strong yes to all the questions.
-I mostly replied yes to questions.Should I register to this class?You can take this course if your answer is a strong yes to all the questions.
+Can I discuss completed assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+May I discuss completed projects with classmates?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Is it OK to discuss finalized assignments with peers?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Is it allowed to discuss finished assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Would it be OK to discuss completed homework with my classmates?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Should I discuss completed assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Can I deliberate completed assignments with peers?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+May I debate finished assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Is it OK to chat about finalized coursework with my fellow students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Is it allowed to talk about completed assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Would it be OK to review completed assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Should I go through completed homework with my peers?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Can I discuss finished assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+May I discuss finalized assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Is it OK to discuss finished work with other my fellow peers?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Is it allowed to discuss complete assignments with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Would it be OK to discuss closed projects with other classmates?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Should I discuss completed work with other students?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+Can I go through completed assignments with my classmates?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
+May I talk about my finished assignments with another student?Absolutely! Students will give and receive peer feedback for completed assignments. We encourage a collaborative learning environment.
 Is Python or Java required for this course?Yes
 Is Java or Python obligatory for this class?Yes
 Is Python or Java compulsory for this course?Yes
@@ -413,25 +392,25 @@ How many assignments do I have to turn in?8. Three Assignements, three reflectio
 How many project reports would I have to write?8. Three Assignements, three reflection reports and two examinations.
 How many assignment essays I must write?8. Three Assignements, three reflection reports and two examinations.
 How many homework essays do you want me to write?8. Three Assignements, three reflection reports and two examinations.
-How can I engage with my classmates?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
-How should I engage with my fellow student?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
-How may I engage with my classmates?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
-How would I engage with students?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
-How do I engage with my peers?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
-How can I get involved with my fellow pupil?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
-How should I communicate with my classmates?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
-How may I participate with other students?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
-How would I chat with my contemporaries?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
-How do I connect with other students in the class?You can engage with your classmates through Piazza Forum, Peer Feedback and sharing of exemplary assignments.
-Will I have to work independently?Yes. You will have to work independently on design, programming and reflections.
-Do I have to study by myself?Yes. You will have to work independently on design, programming and reflections.
-Can I work independently?Yes. You will have to work independently on design, programming and reflections.
-Should I study autonomously?Yes. You will have to work independently on design, programming and reflections.
-Would I have to work alone?Yes. You will have to work independently on design, programming and reflections.
-Do we have to do everything independently?Yes. You will have to work independently on design, programming and reflections.
-Must I learn independently?Yes. You will have to work independently on design, programming and reflections.
-Am I expected to work on my own?Yes. You will have to work independently on design, programming and reflections.
-Do you want me to study by myself?Yes. You will have to work independently on design, programming and reflections.
+How can I engage with my classmates?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
+How should I engage with my fellow student?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
+How may I engage with my classmates?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
+How would I engage with students?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
+How do I engage with my peers?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
+How can I get involved with my fellow pupil?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
+How should I communicate with my classmates?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
+How may I participate with other students?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
+How would I chat with my contemporaries?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
+How do I connect with other students in the class?You can engage with your classmates through Piazza Forum,Peer Feedback and sharing of exemplary assignments.
+Will I have to work independently?Yes. You will have to work independently on design,programming and reflections.
+Do I have to study by myself?Yes. You will have to work independently on design,programming and reflections.
+Can I work independently?Yes. You will have to work independently on design,programming and reflections.
+Should I study autonomously?Yes. You will have to work independently on design,programming and reflections.
+Would I have to work alone?Yes. You will have to work independently on design,programming and reflections.
+Do we have to do everything independently?Yes. You will have to work independently on design,programming and reflections.
+Must I learn independently?Yes. You will have to work independently on design,programming and reflections.
+Am I expected to work on my own?Yes. You will have to work independently on design,programming and reflections.
+Do you want me to study by myself?Yes. You will have to work independently on design,programming and reflections.
 Will I have to do additional reading for this class?Yes
 Do I have to do additional reading for this course?Yes
 Would I have to do additional reading for this class?Yes
@@ -648,20 +627,20 @@ What have the score values for this class been in the last course?For the Fall 2
 What have the mark stats for this class been in the last semester?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
 What score statistics did this course have in the past?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
 What mark statistics had this class have in the previous semester?For the Fall 2015 KBAI class, the average was in the low 80's, and only about 10% of the class ended with a raw score over 90; well over half the class still received an A, though
-What are the word limits for the assignments?About 1000 words
-What are the word cap for the assignments?About 1000 words
-What are the word restriction for the assignments?About 1000 words
-What are the word ceiling for the assignments reports?About 1000 words
-What are the word count for the assignments reports?About 1000 words
-What is the maximum number of word for the assignments?About 1000 words
-What are the word limits for the homeworks reports?About 1000 words
-What are the word cap for the homeworks?About 1000 words
-What are the word restriction for the homework reflections?About 1000 words
-What are the word ceiling for the homeworks?About 1000 words
-What are the word count for the homeworks reports?About 1000 words
-What is the maximum number of word for the homeworks?About 1000 words
-What is the assignments' word limit?About 1000 words
-What is the homeworks word limits?About 1000 words
+What are the word limits for the assignments?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What are the word cap for the assignments?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What are the word restriction for the assignments?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What are the word ceiling for the assignments reports?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What are the word count for the assignments reports?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the maximum number of word for the assignments?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What are the word limits for the homeworks reports?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What are the word cap for the homeworks?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What are the word restriction for the homework reflections?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What are the word ceiling for the homeworks?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What are the word count for the homeworks reports?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the maximum number of word for the homeworks?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the assignments' word limit?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
+What is the homeworks word limits?Each assignment should be approximately 1,000 words (neither a minimum nor a maximum, just a heuristic)
 What are the individual weightages of the 2 unproctored exams?15% for mid-term exam and 20% for final exam
 What are the respective weightages of the midterm and final exams?15% for mid-term exam and 20% for final exam
 What are the specific weightages of the two un-proctored examination?15% for mid-term exam and 20% for final exam
@@ -834,27 +813,27 @@ Does the teaching staff go through the response?TAs will see the feedback you gi
 Do the teaching assistants go through the assessment?TAs will see the feedback you give to your peers in order to ensure that all students receive adequate feedback.
 Do the professors examine my feedback?TAs will see the feedback you give to your peers in order to ensure that all students receive adequate feedback.
 Do the teachers go through the peer assessment?TAs will see the feedback you give to your peers in order to ensure that all students receive adequate feedback.
-How much of my grade depends on completing peer comments?Completing peer feedback exercises is 15% of your average.
-How many of my points depend on filling out peer feedback?Completing peer feedback exercises is 15% of your average.
-How much of my mark depends on completing peer evaluation?Completing peer feedback exercises is 15% of your average.
-How much of my grade rely on finishing peer comments?Completing peer feedback exercises is 15% of your average.
-How much of my score rely on completing peer feedback?Completing peer feedback exercises is 15% of your average.
-How much of my mark rely on completing peer assessment?Completing peer feedback exercises is 15% of your average.
-How much of my grade is effected by filling out peer response?Completing peer feedback exercises is 15% of your average.
-How much of my score effected by completing peer feedback?Completing peer feedback exercises is 15% of your average.
-How many of my marks are effected by completing peer feedback?Completing peer feedback exercises is 15% of your average.
-How many of my grade points depends on delivering peer feedback?Completing peer feedback exercises is 15% of your average.
-How much of my score depends on finishing peer feedback?Completing peer feedback exercises is 15% of your average.
-How much of my mark depends on finishing peer evaluation?Completing peer feedback exercises is 15% of your average.
-How much of my grade rely on completing peer comments?Completing peer feedback exercises is 15% of your average.
-How much of my score rely on delivering peer response?Completing peer feedback exercises is 15% of your average.
-How many points rely on completing peer assessment?Completing peer feedback exercises is 15% of your average.
-How much of my grade is effected by delivering peer comments?Completing peer feedback exercises is 15% of your average.
-How much of my score effected by completing peer review?Completing peer feedback exercises is 15% of your average.
-How many of my mark are effected by completing peer review?Completing peer feedback exercises is 15% of your average.
-What percentage of my grade depends on my peer comments?Completing peer feedback exercises is 15% of your average.
-What portion of my mark is linked to my peer response?Completing peer feedback exercises is 15% of your average.
-What portion of my grade depends on my peer feedbacks?Completing peer feedback exercises is 15% of your average.
+How much of my grade depends on completing peer comments?Completing peer feedback exercises is 8% of your average.
+How many of my points depend on filling out peer feedback?Completing peer feedback exercises is 8% of your average.
+How much of my mark depends on completing peer evaluation?Completing peer feedback exercises is 8% of your average.
+How much of my grade rely on finishing peer comments?Completing peer feedback exercises is 8% of your average.
+How much of my score rely on completing peer feedback?Completing peer feedback exercises is 8% of your average.
+How much of my mark rely on completing peer assessment?Completing peer feedback exercises is 8% of your average.
+How much of my grade is effected by filling out peer response?Completing peer feedback exercises is 8% of your average.
+How much of my score effected by completing peer feedback?Completing peer feedback exercises is 8% of your average.
+How many of my marks are effected by completing peer feedback?Completing peer feedback exercises is 8% of your average.
+How many of my grade points depends on delivering peer feedback?Completing peer feedback exercises is 8% of your average.
+How much of my score depends on finishing peer feedback?Completing peer feedback exercises is 8% of your average.
+How much of my mark depends on finishing peer evaluation?Completing peer feedback exercises is 8% of your average.
+How much of my grade rely on completing peer comments?Completing peer feedback exercises is 8% of your average.
+How much of my score rely on delivering peer response?Completing peer feedback exercises is 8% of your average.
+How many points rely on completing peer assessment?Completing peer feedback exercises is 8% of your average.
+How much of my grade is effected by delivering peer comments?Completing peer feedback exercises is 8% of your average.
+How much of my score effected by completing peer review?Completing peer feedback exercises is 8% of your average.
+How many of my mark are effected by completing peer review?Completing peer feedback exercises is 8% of your average.
+What percentage of my grade depends on my peer comments?Completing peer feedback exercises is 8% of your average.
+What portion of my mark is linked to my peer response?Completing peer feedback exercises is 8% of your average.
+What portion of my grade depends on my peer feedbacks?Completing peer feedback exercises is 8% of your average.
 Does the quality of feedback I provide matter?Your peer feedback average will be determined not only based on whether or not you completed all assigned peer feedback exercises, but also based on the quality of the feedback you provided as evaluated by the TAs and by the recipients of the feedback.
 Does the value of reviews I provide matter?Your peer feedback average will be determined not only based on whether or not you completed all assigned peer feedback exercises, but also based on the quality of the feedback you provided as evaluated by the TAs and by the recipients of the feedback.
 Does the quality of response I give matter?Your peer feedback average will be determined not only based on whether or not you completed all assigned peer feedback exercises, but also based on the quality of the feedback you provided as evaluated by the TAs and by the recipients of the feedback.
@@ -875,18 +854,18 @@ Does the quality of my comments relevant?Your peer feedback average will be dete
 Do you take into account the quality of feedback I provide?Your peer feedback average will be determined not only based on whether or not you completed all assigned peer feedback exercises, but also based on the quality of the feedback you provided as evaluated by the TAs and by the recipients of the feedback.
 Do you consider the quality of peer feedback I write?Your peer feedback average will be determined not only based on whether or not you completed all assigned peer feedback exercises, but also based on the quality of the feedback you provided as evaluated by the TAs and by the recipients of the feedback.
 Do you care about the quality of student work review I give?Your peer feedback average will be determined not only based on whether or not you completed all assigned peer feedback exercises, but also based on the quality of the feedback you provided as evaluated by the TAs and by the recipients of the feedback.
-How many exams will there be?There will be two exams: a Mid-Term Exam and a Final Exam.
-How many exams to expect?There will be two exams: a Mid-Term Exam and a Final Exam.
-How many exams in the course?There will be two exams: a Mid-Term Exam and a Final Exam.
-How many exams during the course?There will be two exams: a Mid-Term Exam and a Final Exam.
-How many exams in this class?There will be two exams: a Mid-Term Exam and a Final Exam.
-How many exams are there?There will be two exams: a Mid-Term Exam and a Final Exam.
-How many exams are we going to have?There will be two exams: a Mid-Term Exam and a Final Exam.
-How many exams are gonna be there?There will be two exams: a Mid-Term Exam and a Final Exam.
-How many exams gonna be in the class?There will be two exams: a Mid-Term Exam and a Final Exam.
-How many exams will in this class?There will be two exams: a Mid-Term Exam and a Final Exam.
-What is the number of examinations in the course?There will be two exams: a Mid-Term Exam and a Final Exam.
-What is the number of exams in the class?There will be two exams: a Mid-Term Exam and a Final Exam.
+How many exams will there be?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams to expect?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams in the course?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams during the course?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams in this class?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams are there?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams are we going to have?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams are gonna be there?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams gonna be in the class?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+How many exams will in this class?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+What is the number of examinations in the course?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
+What is the number of exams in the class?The course includes 2 take home examinations. A Mid-Term Exam and a Final Exam.
 How will the exams be distributed?Both exams will be an unproctored, untimed, “take-home” tests.
 How will the exams be delivered?Both exams will be an unproctored, untimed, “take-home” tests.
 How will the exams be hand out?Both exams will be an unproctored, untimed, “take-home” tests.
@@ -1103,26 +1082,26 @@ How can I reach out to TAs regarding confidential issues like marks?Post a priva
 How to reach out to instructors concerning private matter like grades?Post a private Piazza message visible only to the instructors
 How may I reach out to instructors regarding private issues such as scores?Post a private Piazza message visible only to the instructors
 How will I reach out to instructors concerning confidential matter like marks?Post a private Piazza message visible only to the instructors
-How will I be able to participate in office hours?Via the webex link available on Piazza
-How can I be able to participate in office hours?Via the webex link available on Piazza
-How can I participate in office hours?Via the webex link available on Piazza
-How to participate in office hours?Via the webex link available on Piazza
-How will I be able to take part in office hours?Via the webex link available on Piazza
-How will I be able engage in office hours?Via the webex link available on Piazza
-How will I be able to join office hours?Via the webex link available on Piazza
-How will I be able to watch office hours?Via the webex link available on Piazza
-How will I be able to go to the office hours?Via the webex link available on Piazza
-How can I be able to take part in office hours?Via the webex link available on Piazza
-How can I engage in office hours?Via the webex link available on Piazza
-How can I join office hours?Via the webex link available on Piazza
-How can I watch office hours?Via the webex link available on Piazza
-How can I go to the office hours?Via the webex link available on Piazza
-How to engage in office hours?Via the webex link available on Piazza
-How to join office hours?Via the webex link available on Piazza
-How to watch office hours?Via the webex link available on Piazza
-How to go to the office hours?Via the webex link available on Piazza
-How to get involved in office hours?Via the webex link available on Piazza
-How partake in office hours?Via the webex link available on Piazza
+How will I be able to participate in office hours?Via the Webex link available on Piazza
+How can I be able to participate in office hours?Via the Webex link available on Piazza
+How can I participate in office hours?Via the Webex link available on Piazza
+How to participate in office hours?Via the Webex link available on Piazza
+How will I be able to take part in office hours?Via the Webex link available on Piazza
+How will I be able engage in office hours?Via the Webex link available on Piazza
+How will I be able to join office hours?Via the Webex link available on Piazza
+How will I be able to watch office hours?Via the Webex link available on Piazza
+How will I be able to go to the office hours?Via the Webex link available on Piazza
+How can I be able to take part in office hours?Via the Webex link available on Piazza
+How can I engage in office hours?Via the Webex link available on Piazza
+How can I join office hours?Via the Webex link available on Piazza
+How can I watch office hours?Via the Webex link available on Piazza
+How can I go to the office hours?Via the Webex link available on Piazza
+How to engage in office hours?Via the Webex link available on Piazza
+How to join office hours?Via the Webex link available on Piazza
+How to watch office hours?Via the Webex link available on Piazza
+How to go to the office hours?Via the Webex link available on Piazza
+How to get involved in office hours?Via the Webex link available on Piazza
+How partake in office hours?Via the Webex link available on Piazza
 What is the purpose of office hours?Synchronous office hours are intended for conversations about individual projects, discussions about course material, etc. rather than straightforward question and answer.
 Why attend office hours?Synchronous office hours are intended for conversations about individual projects, discussions about course material, etc. rather than straightforward question and answer.
 Why participate in office hours?Synchronous office hours are intended for conversations about individual projects, discussions about course material, etc. rather than straightforward question and answer.
@@ -1139,70 +1118,70 @@ Why do we hold office hours?Synchronous office hours are intended for conversati
 What is the goal of office hours?Synchronous office hours are intended for conversations about individual projects, discussions about course material, etc. rather than straightforward question and answer.
 Why should attend office hours?Synchronous office hours are intended for conversations about individual projects, discussions about course material, etc. rather than straightforward question and answer.
 Why tune into the office hours?Synchronous office hours are intended for conversations about individual projects, discussions about course material, etc. rather than straightforward question and answer.
-Where will exemplary assignments be posted?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where are exemplary assignments posted?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where do you post exemplary assignments?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where can I find exemplary assignments?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where are exemplary homeworks posted?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where do you post exemplary projects?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where can I find exemplary papers?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where will exemplary reports be posted?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where are epitome homeworks published?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where do you published perfect projects?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where can I find perfect assignments?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where will ideal works be posted?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where are perfect homeworks published?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where do you post great projects?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where can I find epitome papers?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where will paragon reports be published?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where can I get exemplary assignments?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where may I get hold of example assignments?Examplary assignments, once available, will be posted on piazza for everyone to see.
-Where do I obtain perfect assignments?Examplary assignments, once available, will be posted on piazza for everyone to see.
-What is the point of posting examplary assignments?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why are you posting examplary assignments?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the reason for posting examplary assignments?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the reason for posting examplary works?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the point of posting examplary homework?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the purpose of posting examplary assignments?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why examplary assignments are posted?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why examplary homeworks are posted?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why examplary projects are published?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the point of displaying examplary assignments?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the point of posting great assignments?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the purpose of posting epitome assignments?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the purpose of posting perfect assignments?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the point of posting paragon assignments?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the point of posting ideal assignments?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the purpose of posting perfect homeworks?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the point of posting paragon project?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the point of posting ideal works?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why do you post examplary assignments?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why do you publish examplary work?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why do you share examplary homework?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why do you post examplary project?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Why are you posting examplary assignments?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the goal of sharing examplary homework?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-What is the purpose for publishing examplary works?From previous semesters, we have found that posting examplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
-Is late work accepted?Due to the size of the class and limited resources, late work will not be accepted.
-Will late work be accepted?Due to the size of the class and limited resources, late work will not be accepted.
-Will you accept late work?Due to the size of the class and limited resources, late work will not be accepted.
-Is late assignment accepted?Due to the size of the class and limited resources, late work will not be accepted.
-Is late project accepted?Due to the size of the class and limited resources, late work will not be accepted.
-Is work accepted after due date?Due to the size of the class and limited resources, late work will not be accepted.
-Is homework accepted after due date?Due to the size of the class and limited resources, late work will not be accepted.
-Is project accepted after due date?Due to the size of the class and limited resources, late work will not be accepted.
-Is paper accepted passed due date?Due to the size of the class and limited resources, late work will not be accepted.
-Is work accepted after its due date?Due to the size of the class and limited resources, late work will not be accepted.
-Would you accept late work?Due to the size of the class and limited resources, late work will not be accepted.
-Would you accept late homework?Due to the size of the class and limited resources, late work will not be accepted.
-Would you accept late assignment?Due to the size of the class and limited resources, late work will not be accepted.
-Would you accept late work?Due to the size of the class and limited resources, late work will not be accepted.
-Will late homework be accepted?Due to the size of the class and limited resources, late work will not be accepted.
-Is late work acceptable?Due to the size of the class and limited resources, late work will not be accepted.
-Is submitting work after due date acceptable?Due to the size of the class and limited resources, late work will not be accepted.
-Is turning in homework after due date OK?Due to the size of the class and limited resources, late work will not be accepted.
-Is submitting assignment after due date passed acceptable?Due to the size of the class and limited resources, late work will not be accepted.
-Is turning in project after due date permitted?Due to the size of the class and limited resources, late work will not be accepted.
+Where will exemplary assignments be posted?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where are exemplary assignments posted?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where do you post exemplary assignments?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where can I find exemplary assignments?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where are exemplary homeworks posted?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where do you post exemplary projects?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where can I find exemplary papers?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where will exemplary reports be posted?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where are epitome homeworks published?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where do you published perfect projects?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where can I find perfect assignments?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where will ideal works be posted?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where are perfect homeworks published?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where do you post great projects?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where can I find epitome papers?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where will paragon reports be published?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where can I get exemplary assignments?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where may I get hold of example assignments?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+Where do I obtain perfect assignments?Exemplary assignments, once available, will be posted on piazza for everyone to see.
+What is the point of posting examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why are you posting examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the reason for posting examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the reason for posting examplary works?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the point of posting examplary homework?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the purpose of posting examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why examplary assignments are posted?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why examplary homeworks are posted?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why examplary projects are published?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the point of displaying examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the point of posting great assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the purpose of posting epitome assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the purpose of posting perfect assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the point of posting paragon assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the point of posting ideal assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the purpose of posting perfect homeworks?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the point of posting paragon project?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the point of posting ideal works?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why do you post examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why do you publish examplary work?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why do you share examplary homework?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why do you post examplary project?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Why are you posting examplary assignments?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the goal of sharing examplary homework?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+What is the purpose for publishing examplary works?From previous semesters, we have found that posting exemplary assignments allow for greater peer-to-peer learning and fosters a community of learners.
+Is late work accepted?Due to the size of the class and limited resources, late work will not be accepted
+Will late work be accepted?Due to the size of the class and limited resources, late work will not be accepted
+Will you accept late work?Due to the size of the class and limited resources, late work will not be accepted
+Is late assignment accepted?Due to the size of the class and limited resources, late work will not be accepted
+Is late project accepted?Due to the size of the class and limited resources, late work will not be accepted
+Is work accepted after due date?Due to the size of the class and limited resources, late work will not be accepted
+Is homework accepted after due date?Due to the size of the class and limited resources, late work will not be accepted
+Is project accepted after due date?Due to the size of the class and limited resources, late work will not be accepted
+Is paper accepted passed due date?Due to the size of the class and limited resources, late work will not be accepted
+Is work accepted after its due date?Due to the size of the class and limited resources, late work will not be accepted
+Would you accept late work?Due to the size of the class and limited resources, late work will not be accepted
+Would you accept late homework?Due to the size of the class and limited resources, late work will not be accepted
+Would you accept late assignment?Due to the size of the class and limited resources, late work will not be accepted
+Would you accept late work?Due to the size of the class and limited resources, late work will not be accepted
+Will late homework be accepted?Due to the size of the class and limited resources, late work will not be accepted
+Is late work acceptable?Due to the size of the class and limited resources, late work will not be accepted
+Is submitting work after due date acceptable?Due to the size of the class and limited resources, late work will not be accepted
+Is turning in homework after due date OK?Due to the size of the class and limited resources, late work will not be accepted
+Is submitting assignment after due date passed acceptable?Due to the size of the class and limited resources, late work will not be accepted
+Is turning in project after due date permitted?Due to the size of the class and limited resources, late work will not be accepted
 What should I do if I am having issues submitting my work?If you are having issue submitting on T-square, immediately post a private note on Piazza with your submission.
 What can I do if I am having issues submitting my work?If you are having issue submitting on T-square, immediately post a private note on Piazza with your submission.
 What to do if I am having issues submitting my work?If you are having issue submitting on T-square, immediately post a private note on Piazza with your submission.
@@ -1252,15 +1231,15 @@ What if I have an emergency and cannot submit my test on time?If you have an eme
 What if I cannot submit my exam on time due to an emergency?If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office
 What if I am experiencing an emergency and cannot submit my work on time?If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office
 What if I cannot submit my work on time because of an urgent situation?If you have an emergency and cannot submit your work by the deadline, we ask that you go through the Dean of Student's office
-What kind of issues can I bring up to the Dean of student's office?Justifiable excuses would involved any major unforseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
-What type of issues can I bring up to the Dean of student's office?Justifiable excuses would involved any major unforseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
-What kind of dispute should I bring up to the Dean of student's office?Justifiable excuses would involved any major unforseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
-What kind of issues may I bring up to the Dean of student's office?Justifiable excuses would involved any major unforseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
-What kind of issues can I discuss with the Dean of student's office?Justifiable excuses would involved any major unforseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
-What type of dispute can I discuss with the Dean of student's office?Justifiable excuses would involved any major unforseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
-What sort of issues should I bring up to the Dean of student's office?Justifiable excuses would involved any major unforseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
-What sort of issues do I have to discuss with the Dean of student's office?Justifiable excuses would involved any major unforseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
-What type of dispute can I discuss with the Dean of student's office?Justifiable excuses would involved any major unforseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
+What kind of issues can I bring up to the Dean of student's office?Justifiable excuses would involve any major unforeseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
+What type of issues can I bring up to the Dean of student's office?Justifiable excuses would involve any major unforeseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
+What kind of dispute should I bring up to the Dean of student's office?Justifiable excuses would involve any major unforeseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
+What kind of issues may I bring up to the Dean of student's office?Justifiable excuses would involve any major unforeseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
+What kind of issues can I discuss with the Dean of student's office?Justifiable excuses would involve any major unforeseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
+What type of dispute can I discuss with the Dean of student's office?Justifiable excuses would involve any major unforeseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
+What sort of issues should I bring up to the Dean of student's office?Justifiable excuses would involve any major unforeseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
+What sort of issues do I have to discuss with the Dean of student's office?Justifiable excuses would involve any major unforeseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
+What type of dispute can I discuss with the Dean of student's office?Justifiable excuses would involve any major unforeseen disruption to your classwork such as illness, injuries, death, and birth, all for either you or your family
 What kind of conflict am I liable for?Conflicts such as weddings, business trips, and conference, you should complete your work in advance. That is why all of the assignments and project resources are provided to you at the start of the semester.
 What kind of conflict am I responsible for?Conflicts such as weddings, business trips, and conference, you should complete your work in advance. That is why all of the assignments and project resources are provided to you at the start of the semester.
 What kind of dispute am I liable for?Conflicts such as weddings, business trips, and conference, you should complete your work in advance. That is why all of the assignments and project resources are provided to you at the start of the semester.
@@ -1329,20 +1308,20 @@ How many surveys are there?There will be 4 surveys. 3 will be administered throu
 How many surveys are in KBAI?There will be 4 surveys. 3 will be administered throughout the course, and the 4th will be administered by Georgia Tech via CIOS.
 How many surveys are in this KBAI class?There will be 4 surveys. 3 will be administered throughout the course, and the 4th will be administered by Georgia Tech via CIOS.
 How many surveys can I expect?There will be 4 surveys. 3 will be administered throughout the course, and the 4th will be administered by Georgia Tech via CIOS.
-How can I contact the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How to contact the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How should I contact the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I contact the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How to reach out the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How to get in touch with the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I make contact with the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I approach the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I speak to the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I get hold of the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How may I communicate with the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How to call the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I email the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
-How can I talk the Dean of student's office?You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I contact the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How to contact the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How should I contact the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I contact the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How to reach out the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How to get in touch with the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I make contact with the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I approach the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I speak to the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I get hold of the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How may I communicate with the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How to call the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I email the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
+How can I talk the Dean of student's office? You may find information on contacting the Dean of Students with regard to personal emergencies here: https://studentlife.gatech.edu/content/class-attendance
 What if my conflict falls during the final?If your conflict falls during final exams, please let us know immediately and in advance so that we may work with you.
 What if I have a conflict during the final?If your conflict falls during final exams, please let us know immediately and in advance so that we may work with you.
 What to do is if have a conflict that falls during the final examination?If your conflict falls during final exams, please let us know immediately and in advance so that we may work with you.
@@ -1356,21 +1335,21 @@ What if I have a conflict during the final exam?If your conflict falls during fi
 What can I do is if during the final exam I have a conflict?If your conflict falls during final exams, please let us know immediately and in advance so that we may work with you.
 What should I do is if during the final I have a conflict?If your conflict falls during final exams, please let us know immediately and in advance so that we may work with you.
 What can I do is if during the final examination I have a schedule conflict?If your conflict falls during final exams, please let us know immediately and in advance so that we may work with you.
-When are assignments due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-When all assignments are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-When class assignments are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-When course assignments are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-When assignments of the course are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-When assignments of this class are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-When will the assignments be due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-What is the due date for assignments?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-What is the due date for homework?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-What is the due date for course work?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-What is the due date for projects?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-When class homework are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-When KBAI assignments are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-When KBAI homework is due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
-What is assignments due dates schedule?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure toset T-Square to your local time zone to see due dates in your time
+When are assignments due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+When all assignments are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+When class assignments are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+When course assignments are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+When assignments of the course are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+When assignments of this class are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+When will the assignments be due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+What is the due date for assignments?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+What is the due date for homework?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+What is the due date for course work?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+What is the due date for projects?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+When class homework are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+When KBAI assignments are due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+When KBAI homework is due?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
+What is assignments due dates schedule?All assignments are due at the end of the week, on Sunday at midnight UTC-12 (Anywhere On Earth time). This translates to an early-morning Monday deadline in the Americas, a midday Monday deadline in Europe, etc. If for example, Assignment 1 were due on January 22nd at midnight UTC-12, which translates to Monday, January 23rd at 7AM Eastern time, 4AM Pacific time. Precise due dates and times can be found in T-Square on each assignment page. Make sure to set T-Square to your local time zone to see due dates in your time
 Where can I find the course calendar?https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit
 Where to find KBAI course calendar?https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit
 Where to locate course calendar?https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit
