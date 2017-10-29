@@ -140,32 +140,53 @@ When are assignments due?All assignments are due at the end of the week, on Sund
 Where can I find the course calendar?https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit
 Where is the course syllabus?https://docs.google.com/document/d/1YUnl-NbNycN3GfzK8BXO0qxW6wdKT1sKhO-p028Fl18/edit
 Where can I find assignment 1?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where can I find Assignment One?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where is assignment 1's rubric?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where is Assignment One's rubric?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find assignment 2?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where can I find Assignment Two?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where is assignment 2 defined?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where is Assignment Two defined?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find assignment 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where can I find Assignment Three?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where is assignment 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where is Assignment Three?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find project 1?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where can I find Project One?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where is project 1's files?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where are Project One's files?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find project 2?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where can I find Project Two?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 What is the location of project 2?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+What is the location of Project Two?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 Where can I find project 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
-Where are the files for project 3?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where can I find Project Three?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
+Where are the files for Project Three?https://drive.google.com/drive/folders/0ByL9Kt_U_JJuQmZxSEtnWENiUXc
 When is assignment 1 due?Week of August 28th
-When is due date for assignment 1?Week of August 28th
+When is Assignment One due?Week of August 28th
+When is the due date for assignment 1?Week of August 28th
+When is the due date for Assignment One?Week of August 28th
 When is assignment 2 due?Week of September 25th
+When is Assignment Two due?Week of September 25th
 Assignment 2 is due when?Week of September 25th
+What day is Assignment Two due?Week of September 25th
 When is assignment 3 due?Week of October 30th
+When is Assignment Three due?Week of October 30th
 What is the date for assignment 3?Week of October 30th
 When is project 1 due?Week of September 4th
+When is Project One due?Week of September 4th
 When does project 1 need to be completed?Week of September 4th
 When is project 2 due?Week of October 9th
-What is due date for project 2?Week of October 9th
+When is Project Two due?Week of October 9th
+What is the due date for project 2?Week of October 9th
 When is project 3 due?Week of November 6th
-What is due date for project 3?Week of November 6th
+When is Project Three due?Week of November 6th
+What is the due date for project 3?Week of November 6th
 When is the midterm?Week of October 2nd
+When is the midterm exam?Week of October 2nd
 What date is the midterm?Week of October 2nd
 When is the final?Week of November 27th
+When is the final exam?Week of November 27th
 What date is the final?Week of November 27th
 Who is the professor for this class?Professor Goel
 Who is the instructor of this class?Professor Goel
